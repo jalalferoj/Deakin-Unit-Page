@@ -16,8 +16,8 @@ p {
   font-family: Arial
 }
 div {
-  background-color: darkcyan;
-  txt-align: right;
+  background-color: blue;
+  text-align: right;
 }
 th, td {
   padding: 8px;
@@ -29,4 +29,5 @@ th, td {
 tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
+
 
